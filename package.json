@@ -1,0 +1,19 @@
+{
+  "name": "roystersnc",
+  "version": "1.0.0",
+  "description": "Project for my Dad's oyster business",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosremetnarg/RoystersNC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosremetnarg/RoystersNC/issues"
+  },
+  "homepage": "https://github.com/nosremetnarg/RoystersNC#readme"
+}
